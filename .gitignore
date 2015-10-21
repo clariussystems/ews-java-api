@@ -19,11 +19,15 @@
 .idea/codeStyleSettings.xml
 .idea/dictionaries
 .idea/shelf
+.idea/*.xml
+.idea/*.iml
 *.iws
 *.ipr
+*.iml
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
+out/*
